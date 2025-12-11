@@ -1,35 +1,56 @@
-﻿# 👋 Hi there, I'm Gilberto Garza  
+# 👋 Hi there, I'm Gilberto Garza
 
-🔌 **Electronic Systems Engineer | Data Science | Industrial Automation | AI Solutions**  
+🔌 **Electronic Systems Engineer | Industrial AI & Automation | Prescriptive Maintenance**
 
-I combine my expertise in **industrial automation** and **electrical systems** with a strong background in **Python, AI, and Data Science**.  
-Currently, I lead projects in **automation, data-driven solutions, and business integration** through technologies such as **SAP Business One, Docker, and n8n**.  
-
----
-
-## 🔧 Technologies & Tools
-- **Programming:** Python, SQL, JavaScript, C for embedded systems  
-- **AI & Data Science:** Pandas, Scikit-learn, TensorFlow, PyTorch, Ollama  
-- **Automation & Control:** PLCs, Modbus, Profinet, Industrial IoT  
-- **Infrastructure:** Docker, Proxmox, Linux, PostgreSQL, SuiteCRM  
-- **Business Tools:** SAP Business One, EspoCRM, n8n  
+I bridge **industrial automation** with **modern AI**, building systems that run 100% on-premise for manufacturing and energy sectors.  
+Currently developing **prescriptive maintenance platforms** using local LLMs, knowledge graphs, and real-time sensor integration.
 
 ---
 
-## 🚀 Highlight Projects
-- 🔹 Industrial data collection and visualization with **Node-RED, InfluxDB, Grafana**  
-- 🔹 AI agent integration with **n8n** for WhatsApp customer interactions  
-- 🔹 Predictive maintenance system for **electrical drives and industrial sensors**  
-- 🔹 Full-stack project: inventory and forklift tracking in a warehouse using **Flask + Bluetooth positioning**  
+## 🔧 Tech Stack
+
+**AI & ML:** Python, Ollama, RAG systems, LangChain, Neo4j, FastAPI  
+**Industrial:** PLCs, Modbus, Vibration/Ultrasound sensors, SCADA integration  
+**Automation:** n8n, Node-RED, Docker, Proxmox, Linux servers  
+**Business Systems:** SAP Business One, Contpaq, custom API integrations  
+**Data:** PostgreSQL, InfluxDB, Grafana, pandas
+
+---
+
+## 🚀 Current Projects
+
+🔹 **Prescriptive Maintenance with Local AI**  
+On-premise system using GPU inference, Neo4j knowledge graphs, and autonomous agents that detect anomalies, diagnose failures, and auto-generate work orders integrated with SAP PM.
+
+🔹 **Industrial RAG System**  
+PDF extraction pipeline for technical manuals (Ducati capacitors, Danfoss drives) with intelligent chunking, table extraction, and semantic search using Ollama embeddings.
+
+🔹 **n8n Business Automation**  
+Complex workflows: SPEI mass payments, automated financial reporting, supplier data extraction with AI, Google Merchant Center feeds, WhatsApp integrations.
+
+🔹 **Safety Stock Optimization**  
+FastSafetyStocks algorithm for electrical supply inventory: demand forecasting, BOM explosion, multi-period purchase planning.
+
+---
+
+## 💡 Focus Areas
+
+- Local AI deployments (zero cloud dependency)
+- Knowledge graphs for industrial assets
+- Sensor-to-decision automation pipelines
+- ERP/MES integration (SAP, custom systems)
 
 ---
 
 ## 🌎 About Me
-- 💡 Passionate about bridging **industrial engineering** with **modern AI**
-- 🎓 **MEDEX Graduate** at IPADE Business School 
-- 📍 Based in Monterrey, Mexico  
-- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/gilbertogarza)  
+
+📍 Monterrey, Mexico  
+🎓 MEDEX Graduate - IPADE Business School  
+🔗 [LinkedIn](https://www.linkedin.com/in/gilbertogarza)  
+📧 ggarza@ael.mx
 
 ---
-✨ _Always building solutions at the intersection of automation, data, and AI._
+
+*Building intelligent systems at the intersection of industrial operations and AI.*
+
 
